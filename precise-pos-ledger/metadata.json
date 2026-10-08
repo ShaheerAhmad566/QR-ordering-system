@@ -1,0 +1,6 @@
+{
+  "name": "The Big Bite",
+  "description": "The Big Bite Shawarma & Burger House - Fast food counter POS, stock inventory tracking, expenses, cash drawer reconciliation, and Excel reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
